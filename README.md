@@ -1,2 +1,2 @@
 # hello-world
-A simple calculator.
+I'm a boy. I like programming and play games.
